@@ -1,13 +1,13 @@
 # Heart Rate Variability Among College Students Using Detrended Fluctuation Analysis (DFA)
 
-This repository contains a demonstration of the ongoing research , including raw data, sample code, and sample results.  Majority of the study subjects data are omitted to protect the integrity of the study as well as the privacy of the participants.
+This repository is a demonstration of an ongoing research, including raw data, sample code, and sample results. Majority of the subjects' data are omitted to protect the integrity of the study as well as the privacy of the participants.
 
 Faculty Sponsor:
 * Dr. Carolyn Martsberger
 
 Code Authors:
 * David Aguillard
-* Ivan Gu
+* Zifan(Ivan) Gu
 
 The raw data collected on subjects has two major categories: 
 * Unbounded 24-hour data on a college campus
